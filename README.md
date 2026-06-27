@@ -88,7 +88,7 @@ streamlit run app.py
 MSc Student — Data Science & Intelligent Systems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://linkedin.com/in/VOTRE_PROFIL](https://www.linkedin.com/in/kaouther-b-98256939b/))
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-Demo-yellow)](https://huggingface.co/spaces/iramme/rag-chatbot)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-Demo-yellow)]([https://huggingface.co/spaces/iramme/rag-chatbot](https://huggingface.co/spaces/irammee/rag-chatbot))
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/iramme)
 
 ---
