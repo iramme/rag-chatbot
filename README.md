@@ -87,9 +87,9 @@ streamlit run app.py
 **Boudersa Kaouther**
 MSc Student — Data Science & Intelligent Systems
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/VOTRE_PROFIL)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-Demo-yellow)](https://huggingface.co/spaces/VOTRE_USERNAME/docmind-rag-chatbot)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/VOTRE_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://linkedin.com/in/VOTRE_PROFIL](https://www.linkedin.com/in/kaouther-b-98256939b/))
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-Demo-yellow)](https://huggingface.co/spaces/iramme/rag-chatbot)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/iramme)
 
 ---
 
